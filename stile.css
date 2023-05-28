@@ -1,64 +1,7 @@
-body 
-{
-    text-align: center;
-   align-content: center; 
-    width: 1000px;
-   margin: auto;
-    background: url(https://cutewallpaper.org/21/black-gif-background/Background-GIF-Find-on-GIFER.gif)
+.Text{
+  font-family: ravie;
 }
+.Animation{
+  Font-family: ravie;
 
-h1.titre
-{
-    width: 1000px;
-   margin: auto;
-   text-align: center;
-   align-content: center;
-   color: red;
-}
-#token
-{
-   color: blue;
-}
-
-h2
-{
-    color: red;
-}
-
-#nitro
-{
-    color: blue;
-}
-
-#cc
-{
-    color: blue;
-}
-
-#cec
-{
-    color: red;
-}
-
-
-#accounts
-{
-    color: red;
-}
-
-h1.compte
-{
-    color: red;
-}
-
-#accounts
-{
-    color: blue;
-}
-
-a.button
-{
-   text-align: center;
-   align-content: center;
-    color: red;
-}
+background-color: black;
